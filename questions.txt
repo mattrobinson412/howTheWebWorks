@@ -1,0 +1,19 @@
+How Web Works - Questions
+
+1) Hyper-Text Transfer Protocol is how browsers and servers talk to each other.
+
+2)URLs are the address of a resource on the Web. They're used by browsers to get any resources on the web that's been published.
+
+3) DNSs translate domain names to IP addresses so that browsers can load internet resources. This is because browsers interact through those IP addresses.
+
+4) A query string assigns values to specific parameters, often as a result of interaction with a Web application through HTML forms, etc.
+
+5) Request and Response. The diference between the two is that a request is an action your browser takes when you point your browser to any webpage on a server. A response is what the server does (delivering the HTML text asked for) after receiving a request.
+
+6) Refer to #5
+
+7) Refer to #5
+
+8) HTTP headers let the client and the server pass additional information with an HTTP request or response (developer.mozilla.org). Request headers: Host, User-Agent, Accept, Cookie, Cache-Control; Response headers: Content-Type, Last-Modified, Set-Cookie, Cache-Control.
+
+9) The HTML/text, JS script, and CSS file all loaded and were called when I went to this webpage.
